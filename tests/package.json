@@ -1,0 +1,7 @@
+{
+  "name": "meniscus-rehab-tracker-tests",
+  "private": true,
+  "description": "End-to-end checks for the single-file app",
+  "scripts": { "test": "node app.test.js" },
+  "devDependencies": { "playwright": "^1.48.0" }
+}
